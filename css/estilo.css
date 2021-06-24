@@ -7,11 +7,11 @@ h1,h2 {
 }
 
 .hero {
-    background: url(/img/header.jpg) no-repeat;
+    background: url(../img/header.jpg) no-repeat;
     background-size: cover;
     height: 52vh;
     min-height: 600px;
-    color: whitesmoke;
+    color: white;
 }
 
 .lista-novedades {
